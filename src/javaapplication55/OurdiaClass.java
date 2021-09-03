@@ -10,5 +10,7 @@ package javaapplication55;
  * @author sl510hdmi
  */
 public class OurdiaClass {
-    
+    public void affifer(){
+    System.out.println("hi");
+    }
 }
